@@ -16,9 +16,9 @@ DefaultContentLanguage = "ru"
 # config/_default/menus/menu.xx.toml
 
 [taxonomies]
-category = "категории"
-tag = "тэги"
-# series = "series"
+category = "categories"
+tag = "tags"
+series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

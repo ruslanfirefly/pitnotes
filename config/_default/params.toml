@@ -1,5 +1,5 @@
 # enable search
-enableSearch = true
+enableSearch = false
 
 # socials
 # twitter = "@janedoe"
@@ -94,7 +94,7 @@ enforceLightMode = false
 languageMenuName = "🌐"
 
 # Title separator, default to |.
-# titleSeparator = "|"
+titleSeparator = "-"
 
 # Enable or disable comments globally. Default to true.
 # comments = false
@@ -131,7 +131,7 @@ languageMenuName = "🌐"
 
 # website author
 [author]
-name = "Jane Doe"
+name = "PitNotes"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]

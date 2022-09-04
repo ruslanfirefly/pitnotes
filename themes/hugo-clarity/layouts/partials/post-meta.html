@@ -10,7 +10,7 @@
   {{- if $showDate }}
     <span>{{ partial "sprite" (dict "icon" "calendar") }}</span>
     <span class="post_date">
-      {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.dateFormat) -}}
+      {{ .Date.Format (default "02/01/2006" $.Site.Params.dateFormat) -}}
     </span>
     {{- $scratch.Set "writeSeparator" true }}
   {{- end }}
