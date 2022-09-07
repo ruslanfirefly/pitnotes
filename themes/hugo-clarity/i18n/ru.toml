@@ -53,7 +53,7 @@ other = "Overview"
 other = "{{ .ReadingTime }} мин. чтения"
 
 [series_posts]
-other = "Posts in this series"
+other = "Серия статей"
 
 # search
 [quick_links]
