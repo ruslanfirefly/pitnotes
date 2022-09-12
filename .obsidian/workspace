@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/blockchain/cho-takoe-blockchain/index.md",
+            "file": "content/about.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/blockchain/cho-takoe-blockchain/index.md",
+                "file": "content/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/blockchain/cho-takoe-blockchain/index.md",
+                "file": "content/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/blockchain/cho-takoe-blockchain/index.md"
+                "file": "content/about.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "d35abc0e2bf8be9e",
   "lastOpenFiles": [
+    "content/post/blockchain/cho-takoe-blockchain/index.md",
     "archetypes/post.md",
     "archetypes/default.md",
-    "content/post/blockchain/cho-takoe-blockchain/index.md",
     "content/about.md",
     "content/search.md",
     "content/Untitled.md",
