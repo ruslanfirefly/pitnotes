@@ -131,6 +131,7 @@
   "active": "d35abc0e2bf8be9e",
   "lastOpenFiles": [
     "archetypes/post.md",
+    "archetypes/default.md",
     "content/post/blockchain/cho-takoe-blockchain/index.md",
     "content/about.md",
     "content/search.md",
@@ -138,7 +139,6 @@
     "content/post/bundle/index.md",
     "content/post/bundle/building.webp",
     "content/post/bundle/building.png",
-    "themes/hugo-clarity/exampleSite/content/about.md",
-    "content/post/notices.md"
+    "themes/hugo-clarity/exampleSite/content/about.md"
   ]
 }

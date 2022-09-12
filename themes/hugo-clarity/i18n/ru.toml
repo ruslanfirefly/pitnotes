@@ -47,7 +47,7 @@ other = "Все Теги"
 other = "Все Серии"
 
 [overview]
-other = "Overview"
+other = "Содержание"
 
 [reading_time]
 other = "{{ .ReadingTime }} мин. чтения"
